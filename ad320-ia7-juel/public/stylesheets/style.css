@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: beige;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 150px auto 0px auto;
+}
+
+#first {
+    background-color:red;
+    height:50px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
